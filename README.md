@@ -43,17 +43,6 @@ The dataset contains sales-related information from a retail store (Croma), incl
 ### 🖥 Full Dashboard View
 ![Dashboard](images/dashboard.png)
 
----
-
-### 📊 Key Metrics
-
-![Total Quantity](images/total_quantity.png)
-
-![Transactions](images/transactions.png)
-
-![Total Sales](images/total_sales.png)
-
-![Average](images/average.png)
 
 ---
 
